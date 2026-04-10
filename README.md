@@ -10,7 +10,7 @@ Welcome to the **System Prank Simulator**! This is an educational project develo
 ## 🛠️ How to Use
 1.  Download the `.cpp` source code from this repository.
 2.  Compile the code using a C++ compiler (e.g., MinGW, Visual Studio, or Dev-C++).
-3.  Run the generated `.exe` file on your PC to see the effects.
+3.  **🛡️ RUN AS ADMINISTRATOR:** You **must** run the generated `.exe` file as an Administrator for the effects to work properly (it needs permission to access system components).
 
 ## ⚠️ Disclaimer
 **For Educational Purposes Only!** This tool is intended for pranks and learning. Do not use it to cause any actual harm. The author is not responsible for any misuse. Always test in a **Sandbox** or a Virtual Machine first!
